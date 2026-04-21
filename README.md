@@ -80,3 +80,4 @@ local/studentactivity/
 1. В `index.php` замените блок `$students_json` на запросы к БД через `$DB->get_records()`
 2. Используйте таблицы: `mdl_user`, `mdl_logstore_standard_log`, `mdl_assign_submission`, `mdl_course_completions`, `mdl_grade_grades`
 3. Для синхронных уроков — `mdl_attendance_log` (если установлен плагин Attendance)
+Это как устанавливать
